@@ -1,0 +1,7 @@
+PulseOut::PulseOut() called
+PulseOut: destroy
+PulseOut: destructor
+[2025-01-09 22:09:22] [info] asio async_connect error: asio.system:111 (Connection refused)
+[2025-01-09 22:09:22] [info] Error getting remote endpoint: asio.system:107 (Transport endpoint is not connected)
+[2025-01-09 22:09:22] [error] handle_connect error: Connection refused
+[2025-01-10 02:17:16] [error] handle_read_frame error: websocketpp.transport:7 (End of File)
