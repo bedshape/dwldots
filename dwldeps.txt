@@ -1,0 +1,34 @@
+dwl build dependencies:
+seatd
+elogind
+wlroots0.18
+wayland
+wayland-devel
+tllist
+fcft
+fcft-devel
+libinput
+libinput-devel
+pkg-config
+xorg-server-xwayland
+
+optional:
+pulseaudio-devel -> litslstatus won't build without this
+libnotify
+pipewire
+alsa-pipewire
+alsa-utils
+grim 
+slurp
+patch
+
+utils:
+swayidle
+swaybg
+waylock
+fuzzel
+mako
+foot
+wev
+lxappearance
+
