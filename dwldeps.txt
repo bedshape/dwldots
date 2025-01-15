@@ -11,6 +11,8 @@ libinput
 libinput-devel
 pkg-config
 xorg-server-xwayland
+gcc
+wayland-protocols
 
 optional:
 pulseaudio-devel -> litslstatus won't build without this
