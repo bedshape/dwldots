@@ -1,7 +1,8 @@
-dwl build dependencies:
+dwl build dependencies (voidlinux):
 seatd
 elogind
 wlroots0.18
+wlroots0.18-devel
 wayland
 wayland-devel
 tllist
